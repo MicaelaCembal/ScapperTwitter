@@ -1,0 +1,7 @@
+accounts.db
+datos/
+*.pyc
+__pycache__/
+venv/
+.env
+*.xlsx
